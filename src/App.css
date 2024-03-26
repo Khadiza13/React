@@ -1,0 +1,19 @@
+.todo-container {
+  border: 1px solid;
+  border-radius: 15px;
+  background-color: rgb(241 200 219 / 69%);
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+input {
+  width: 80%;
+}
+
+.input-button {
+  min-width: 65px;
+}
+
+.input-row {
+  margin: 10px 5px;
+}
